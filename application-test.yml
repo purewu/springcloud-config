@@ -1,0 +1,9 @@
+server:
+  port: 1003
+
+
+config:
+  version: 3
+  
+
+

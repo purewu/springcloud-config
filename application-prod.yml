@@ -1,0 +1,9 @@
+server:
+  port: 1002
+
+
+config:
+  version: 2
+  
+
+
